@@ -50,10 +50,6 @@ expo start
 4. Run the app:
    . Use the Expo Go app on your Android or iOS device to scan the QR code displayed in the terminal.
 
-
-
-
-
-
-
-
+👨‍💻 Author
+Natnael22sds
+[GitHub profile](https://github.com/Natnael22sds)
